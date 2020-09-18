@@ -7,10 +7,11 @@
 I have a passion for solving algorithmic problems, in addition to developing API’s REST and Graphql generally using Golang. I like reading articles on Medium/Quora/TED on the most diverse topics (which sometimes go beyond technology). I am currently learning more in depth about software architecture, design patterns, SOLID and clean code, in order to improve the quality, readability and testability of my current code. When I am not reading about the most diverse subjects I am playing my accordion, an instrument that is part of my routine and I have a great determination in my constant evolution during these 6 years that I decided to enter the world of this instrument. I am currently finishing my degree in computer engineering at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) and working as a software developer at [Conductor Tecnologia](https://www.conductor.com.br).
 
 <p>
-    <a href=""><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/@geraldofiguer%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/geraldo-figueiredo-594b6711a"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/geraldofiguer"><img src="https://img.shields.io/badge/@geraldofiguer%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/geraldofsantana"><img src="https://img.shields.io/badge/@geraldofsantana%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://github.com/geraldofigueiredo"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
 <p>
     <img src="http://views.whatilearened.today/views/github/geraldofigueiredo/views.svg"/>
     <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/geraldofigueiredo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>

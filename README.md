@@ -1,3 +1,5 @@
+[![Header](https://github.com/geraldofigueiredo/geraldofigueiredo/raw/master/assets/banner.svg)](https://some-url.dev/)
+
 ### Hi there 👋
 
 <!--

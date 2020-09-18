@@ -1,4 +1,4 @@
-[![Header](https://github.com/geraldofigueiredo/geraldofigueiredo/raw/master/assets/banner.svg)](https://some-url.dev/)
+[![Header](assets/test.gif)](https://some-url.dev/)
 
 ### Hi there 👋
 

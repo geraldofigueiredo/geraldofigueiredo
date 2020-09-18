@@ -1,4 +1,4 @@
-[![Header](assets/test.gif)](https://some-url.dev/)
+[![Header](assets/banner-2.gif)](https://some-url.dev/)
 
 ---
 

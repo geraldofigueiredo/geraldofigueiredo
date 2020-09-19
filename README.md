@@ -2,6 +2,8 @@
 
 ---
 
+### 
+
 ### Hi there 👋, I'm Geraldo! Programmer and accordionist in the free time
 
 I have a passion for solving algorithmic problems, in addition to developing API’s REST and Graphql generally using Golang. I like reading articles on Medium/Quora/TED on the most diverse topics (which sometimes go beyond technology). I am currently learning more in depth about software architecture, design patterns, SOLID and clean code, in order to improve the quality, readability and testability of my current code. When I am not reading about the most diverse subjects I am playing my accordion, an instrument that is part of my routine and I have a great determination	 in my constant evolution during these 6 years that I decided to enter the world of this instrument. I am currently finishing my degree in computer engineering at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) and working as a software developer at [Conductor Tecnologia](https://www.conductor.com.br).
@@ -33,13 +35,12 @@ I have a passion for solving algorithmic problems, in addition to developing API
       <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </p>
 
-- Cloud: Docker, Heroku Azure
+- Cloud
 
   <p>
       <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  	  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  	  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   </p>
 
 - Version control
@@ -56,14 +57,24 @@ I have a passion for solving algorithmic problems, in addition to developing API
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges"/>
   </p>
 
-  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldofigueiredo&hide=jupyter%20notebook,html,javascript&layout=compact&langs_count=10&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+<br>
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldofigueiredo&hide=jupyter%20notebook,html,javascripts&langs_count=10&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+
+<br>
+<br>
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geraldofigueiredo&count_private=true&show_icons=true)
+<br>
 
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldofigueiredo&count_private=true&show_icons=true" alt="Pawan's github stats"/>
+</a>

@@ -64,9 +64,7 @@ I have a passion for solving algorithmic problems, in addition to developing API
 ---
 <br>
 
-<a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldofigueiredo&hide=jupyter%20notebook,html,javascripts&langs_count=10&include_all_commits=true&count_private=true&layout=compact" />
-</a>
 
 <br>
 <br>
@@ -75,6 +73,4 @@ I have a passion for solving algorithmic problems, in addition to developing API
 
 <br>
 
-<a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldofigueiredo&count_private=true&show_icons=true" alt="Pawan's github stats"/>
-</a>

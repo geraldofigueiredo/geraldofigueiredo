@@ -73,4 +73,4 @@ I have a passion for solving algorithmic problems, in addition to developing API
 
 <br>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldofigueiredo&count_private=true&show_icons=true" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldofigueiredo&include_all_commits=true&count_private=true&show_icons=true" alt="Pawan's github stats"/>
